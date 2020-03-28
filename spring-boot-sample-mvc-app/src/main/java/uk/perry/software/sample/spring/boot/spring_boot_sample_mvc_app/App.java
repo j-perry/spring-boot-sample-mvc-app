@@ -1,4 +1,4 @@
-package uk.perry.software.spring.boot.spring_boot_sample_mvc_app;
+package uk.perry.software.sample.spring.boot.spring_boot_sample_mvc_app;
 
 /**
  * Hello world!
