@@ -12,9 +12,8 @@ You will need installed:
 - Java 11
 - Tomcat 9
 
-Then execute: `mvn spring-boot:run`.
-
-Copy &amp; Paste into your browser `http://localhost:7002/` to view.
+To run: `mvn spring-boot:run`
+To view: `http://localhost:7002/`
 
 ## Useful Reading
 
