@@ -12,9 +12,9 @@ You will need installed:
 - Java 11
 - Tomcat 9
 
-To run: `mvn spring-boot:run`
+Run: `mvn spring-boot:run`
 
-To view: `http://localhost:7002/`
+View: `http://localhost:7002/`
 
 ## Useful Reading
 
