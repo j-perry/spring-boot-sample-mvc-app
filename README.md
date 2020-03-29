@@ -8,3 +8,5 @@ This is a project I will be using in an upcoming pet project.
 ## Useful Reading
 
 - https://winterbe.com/posts/2018/08/29/migrate-maven-projects-to-java-11-jigsaw/
+- https://www.logicbig.com/tutorials/spring-framework/spring-web-mvc/mvc-configurer-default-methods.html
+- https://www.baeldung.com/spring-mvc-static-resources
