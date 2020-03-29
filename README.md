@@ -14,7 +14,7 @@ You will need installed:
 
 Run: `mvn spring-boot:run`
 
-View: `http://localhost:7002/`
+Browser: `http://localhost:7002/`
 
 ## Useful Reading
 
