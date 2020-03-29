@@ -7,8 +7,8 @@ This is a project I will be using in an upcoming pet project.
 
 ## Usage
 
-- Have Java 11 installed
-- Execute in terminal: `mvn spring-boot:run`
+- You'll need Java 11 installed
+- `mvn spring-boot:run`
 
 ## Useful Reading
 
