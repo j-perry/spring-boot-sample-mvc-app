@@ -7,7 +7,7 @@ This is a project I will be using in an upcoming pet project.
 
 ## Usage
 
-`man spring-boot:run`
+`mvn spring-boot:run`
 
 ## Useful Reading
 
