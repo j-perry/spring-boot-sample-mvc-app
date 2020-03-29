@@ -7,8 +7,12 @@ This is a project I will be using in an upcoming pet project.
 
 ## Usage
 
-- You'll need Java 11 installed
-- `mvn spring-boot:run`
+You will need installed:
+
+- Java 11
+- Tomcat 9
+
+Then execute: `mvn spring-boot:run`
 
 ## Useful Reading
 
